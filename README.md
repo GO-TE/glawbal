@@ -11,7 +11,9 @@
 * FE는 React.js 기반으로 작성되었습니다.
 * BE는 django 기반으로 작성되었습니다.
 
-[__개발 일지__](https://go-te.notion.site/RAG-AI-3fca8abf3cd943688807ed0f76de53ec?pvs=4)
+* [__개발 일지__](https://go-te.notion.site/RAG-AI-3fca8abf3cd943688807ed0f76de53ec?pvs=4)
+* [Frontend repository](https://github.com/GO-TE/big-project-front)
+* [Backend repository](https://github.com/GO-TE/bigproject-be)
 
 
 <img src="docs/preview-home.png" width=40%/> <img src="docs/preview-login.png" width=40%/>
