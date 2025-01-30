@@ -11,6 +11,7 @@
 * FE는 React.js 기반으로 작성되었습니다.
 * BE는 django 기반으로 작성되었습니다.
 
+[__개발 일지__](https://go-te.notion.site/RAG-AI-3fca8abf3cd943688807ed0f76de53ec?pvs=4)
 
 
 <img src="docs/preview-home.png" width=40%/> <img src="docs/preview-login.png" width=40%/>
@@ -19,11 +20,14 @@
 ### AX
 <img src="docs/preview-chat1.png" width=30%/> <img src="docs/preview-chat2.png" width=30%/> <img src="docs/preview-ocr.png" width=30%/>
 
+### System Architecture
+<img src="docs/시스템구성도.png">
+
 ### Service Flow
-![service_flow.png](..%2Fdocs%2Fservice_flow.png)
+<img src="docs/service_flow.png">
 
 ### ERD
-![erd.png](..%2Fdocs%2Ferd.png)
+<img src ="docs/erd.png">
 
 
 ## 2. How to use?
